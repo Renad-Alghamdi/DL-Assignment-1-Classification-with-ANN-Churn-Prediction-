@@ -1,0 +1,3 @@
+# DL-Assignment-1-Classification-with-ANN-Churn-Prediction-
+The primary aim of this project is to create an Artificial Neural Network (ANN) that can use a variety of information, including geographical, demographic, and transactional data, to forecast whether an individual customer will continue their association with the bank or opt to leave (customer churn). Furthermore, the ANN will assign a probability score to each customer, allowing for the ranking of customers based on their probability of churning. This ranking will serve as a valuable tool for identifying customers at a higher risk of leaving, enabling the bank to implement tailored retention strategies and enhance its overall customer retention efforts.
+
